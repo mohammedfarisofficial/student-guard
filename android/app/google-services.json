@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060933097662",
+    "project_id": "student-tracker-715e8",
+    "storage_bucket": "student-tracker-715e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060933097662:android:687850dcd25729a6e6a6ef",
+        "android_client_info": {
+          "package_name": "com.rnmapboxglexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060933097662-7mq1d1vtsdvtisegm657c8fbrrpu5oo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkYnUimUVMTIk81VuMUeKMbFxXy3sBqb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060933097662-7mq1d1vtsdvtisegm657c8fbrrpu5oo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

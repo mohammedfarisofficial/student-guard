@@ -1,0 +1,21 @@
+{
+  "name": "RNMapboxGLExample",
+  "displayName": "RNMapboxExample",
+  "expo": {
+    "name": "RNMapboxGLExample",
+    "privacy": "unlisted",
+    "sdkVersion": "46.0.0",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "versionCode": 1
+    },
+    "ios": {
+      "buildNumber": "1"
+    }
+  }
+}
